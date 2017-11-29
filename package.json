@@ -1,0 +1,24 @@
+{
+  "name": "soket-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "9.2.0",
+    "npm": "5.5.1"
+  },
+  "author": "ahodav",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.10.0",
+    "koa": "^2.4.1",
+    "koa-body": "^2.5.0",
+    "koa-router": "^7.3.0",
+    "koa-static": "^4.0.2",
+    "leaflet": "^1.2.0",
+    "socket.io": "^2.0.4"
+  }
+}
